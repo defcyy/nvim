@@ -1,0 +1,7 @@
+require("plugin_config.colorscheme")
+require("plugin_config.nvim_tree")
+require("plugin_config.treesitter")
+require("plugin_config.mason")
+require("plugin_config.telescope")
+require("plugin_config.gitsigns")
+require("plugin_config.nvim_cmp")
