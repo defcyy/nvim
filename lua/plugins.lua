@@ -59,6 +59,7 @@ local plugins = {
     }
   },
   "lewis6991/gitsigns.nvim",
+  {'akinsho/toggleterm.nvim', version = "*"},
 }
 
 local opts = {}
